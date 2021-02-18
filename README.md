@@ -1,2 +1,3 @@
 # hello-world
 Its my first repository on Github lets see how I do it.....
+hey guys i am Gurdarshan singh and i am here to do code as much as possible and I have some ideas in my mind that can change our world.
